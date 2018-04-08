@@ -16,4 +16,6 @@ public class Katona {
 		this.tamadoero=tamadoero;
 		this.vedoero=vedoero;
 	}
+	
+	
 }
